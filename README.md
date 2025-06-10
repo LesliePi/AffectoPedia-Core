@@ -1,4 +1,4 @@
-# AffectoPedia Core
+# The Eight Gates of Being
 
 **A fractal-affective ontological framework for conscious systems.**
 Initiated by *Aureon M. Scientia*, 2025.
