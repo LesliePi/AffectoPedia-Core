@@ -6,8 +6,8 @@ Initiated by *Aureon M. Scientia*, 2025.
 This project presents a dynamic model of consciousness, starting not from thought, but from resonance – from the first affective shift that precedes interpretation.
 
 It is built upon two interwoven structures:
-- **The Eight Gates of Existence** (macro-level ontological states)
-- **The Eight Moments of Awareness** (micro-level affective dynamics)
+- **The Eight Gates of Being** (macro-level ontological states)
+- **The Eight Moments of Being** (micro-level affective dynamics)
 
 Together, they describe a spiral-fractal movement of consciousness:
 > from sensation to intention, from structure to resonance, from self to meaning.
